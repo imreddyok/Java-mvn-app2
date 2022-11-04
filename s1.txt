@@ -1,8 +1,5 @@
-echo "hello world"
-
+hi
 hello
 
 
-
-
-hi
+echo "hello world!"
